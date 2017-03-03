@@ -1,2 +1,2 @@
-# GlipIntegrationStatic
-put glip integration static files here and will be referenced via https://rawgit.com/
+# Static Resource Store
+Put static resources in this public repo and the files can be referenced via https://rawgit.com/
